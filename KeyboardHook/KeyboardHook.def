@@ -1,0 +1,4 @@
+LIBRARY      "KeyboardHook.DLL"
+
+EXPORTS
+	KeyboardProc	@1 PRIVATE

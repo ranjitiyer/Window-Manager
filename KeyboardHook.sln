@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyboardHook", "KeyboardHook\KeyboardHook.vcproj", "{C19AF894-AD03-42D3-92B8-C05CAF505C02}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookInstaller", "HookInstaller\HookInstaller.vcproj", "{E43280FD-F91E-473B-A40C-9162E8555B3A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SystemMetrics", "SystemMetrics\SystemMetrics.vcproj", "{B30F5548-B2A5-4866-ACFF-F03CFA18DEF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C19AF894-AD03-42D3-92B8-C05CAF505C02}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C19AF894-AD03-42D3-92B8-C05CAF505C02}.Debug|Win32.Build.0 = Debug|Win32
+		{C19AF894-AD03-42D3-92B8-C05CAF505C02}.Release|Win32.ActiveCfg = Release|Win32
+		{C19AF894-AD03-42D3-92B8-C05CAF505C02}.Release|Win32.Build.0 = Release|Win32
+		{E43280FD-F91E-473B-A40C-9162E8555B3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E43280FD-F91E-473B-A40C-9162E8555B3A}.Debug|Win32.Build.0 = Debug|Win32
+		{E43280FD-F91E-473B-A40C-9162E8555B3A}.Release|Win32.ActiveCfg = Release|Win32
+		{E43280FD-F91E-473B-A40C-9162E8555B3A}.Release|Win32.Build.0 = Release|Win32
+		{B30F5548-B2A5-4866-ACFF-F03CFA18DEF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B30F5548-B2A5-4866-ACFF-F03CFA18DEF7}.Debug|Win32.Build.0 = Debug|Win32
+		{B30F5548-B2A5-4866-ACFF-F03CFA18DEF7}.Release|Win32.ActiveCfg = Release|Win32
+		{B30F5548-B2A5-4866-ACFF-F03CFA18DEF7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
